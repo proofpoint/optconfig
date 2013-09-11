@@ -201,5 +201,3 @@ Jeremy Brinkley, E<lt>jbrinkley@proofpoint.comE<gt>
 =item showconfig
 
 =back
-
-cut
