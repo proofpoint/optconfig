@@ -218,7 +218,7 @@ Jeremy Brinkley, E<lt>jbrinkley@proofpoint.comE<gt>
 
 =back
 
-cut
+=cut
 
 package Optconfig;
 
